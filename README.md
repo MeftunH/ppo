@@ -1,3 +1,5 @@
 ![Memory Profile Results-1](https://github.com/user-attachments/assets/20b1eded-599a-4ed7-b9f0-b5c029a6f685)
 ![Memory Profile Results-2](https://github.com/user-attachments/assets/63fbe728-d71a-4262-b965-eef35eff717e)
 ![Memory Profile Results-3](https://github.com/user-attachments/assets/6ddd893d-a0db-44cf-a3b5-96220e72f68e)
+![Performance Profile](https://github.com/user-attachments/assets/2d2a2e4e-8e82-471f-a51e-e6ba1ecc8370)
+![Callers of Top Function](https://github.com/user-attachments/assets/42c4faa1-52b3-46bf-83a3-4ffe38a53bde)
